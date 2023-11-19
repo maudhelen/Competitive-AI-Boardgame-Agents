@@ -1,6 +1,7 @@
 # AI_reasoning_2 (Group assignment NOt 2) ur making think its the 2nd assingment modulono
-Hello Modulus
-hallo hallo
 
+Domineering: Modulus and Joseph
 
-Changing read me file for funzies
+Checkers: Gabriel and Miranda
+
+Brisca: Luca and Keti
