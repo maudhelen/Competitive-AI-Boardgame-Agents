@@ -1,4 +1,4 @@
-# AI_reasoning_2 (Group assignment NOt 2) ur making think its the 2nd assingment modulono
+# AI_reasoning_Group
 
 Domineering: Modulus and Joseph
 
