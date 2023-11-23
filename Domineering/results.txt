@@ -49,3 +49,71 @@ With corner coordinates as preferred and using board (and -1)
         }
     ]
 }
+With corner coordinates as preferred and using board (and -1)
+{
+    "wins": [
+        9,
+        {
+            "H": 5,
+            "V": 4
+        }
+    ],
+    "losses": [
+        1,
+        {
+            "H": 1,
+            "V": 0
+        }
+    ]
+}
+With corner coordinates as preferred and not doing -1 if player moves <= 0
+{
+    "wins": [
+        8,
+        {
+            "H": 4,
+            "V": 4
+        }
+    ],
+    "losses": [
+        2,
+        {
+            "H": 2,
+            "V": 0
+        }
+    ]
+}
+not doing -1 if player moves <= 0
+{
+    "wins": [
+        8,
+        {
+            "H": 2,
+            "V": 6
+        }
+    ],
+    "losses": [
+        2,
+        {
+            "H": 2,
+            "V": 0
+        }
+    ]
+}
+doing -1 no matter what
+{
+    "wins": [
+        10,
+        {
+            "H": 5,
+            "V": 5
+        }
+    ],
+    "losses": [
+        0,
+        {
+            "H": 0,
+            "V": 0
+        }
+    ]
+}
