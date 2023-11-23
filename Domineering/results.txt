@@ -32,3 +32,20 @@ With corner coordinates as preferred and using board (and -1)
         }
     ]
 }
+With corner coordinates as preferred and using board (and -1)
+{
+    "wins": [
+        44,
+        {
+            "H": 21,
+            "V": 23
+        }
+    ],
+    "losses": [
+        6,
+        {
+            "H": 3,
+            "V": 3
+        }
+    ]
+}
